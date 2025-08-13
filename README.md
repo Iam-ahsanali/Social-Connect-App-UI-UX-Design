@@ -27,9 +27,6 @@ A beautifully **minimal yet powerful** social media platform interface, designed
 
 ## 🛠 Tools & Technologies
 - **Figma** – UI/UX Design & Prototyping  
-- **Adobe Photoshop** – Image enhancement & editing  
-- **WCAG Guidelines** – Accessibility compliance  
-
 ---
 
 ## 📦 Deliverables
